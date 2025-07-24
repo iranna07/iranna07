@@ -5,7 +5,7 @@
 🤝 I’m looking for help with n8n<br/>
 🌱 I’m currently learning a lot of stuff!<br/>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/iranna-hangnalli)">
+  <a href="https://www.linkedin.com/in/iranna-hangnalli">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
