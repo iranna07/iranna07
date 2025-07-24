@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on Automation using AI<br/>
 🤝 I’m looking for help with n8n<br/>
 🌱 I’m currently learning a lot of stuff!<br/>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9359826f-fafe-4f9b-aaa0-463abd856155" />
+<img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/9359826f-fafe-4f9b-aaa0-463abd856155" />
  https://www.linkedin.com/in/iranna-hangnalli
 
 # 💻 Tech Stack:
