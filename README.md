@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as Cybersecurity Analyst<br/>
 👯 I’m looking to collaborate on Automation using AI<br/>
-🌱 I’m currently learning a lot of stuff!<br/>
+🌱 I’m currently learning a multiple stuffs!<br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/iranna-hangnalli">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
