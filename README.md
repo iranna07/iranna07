@@ -2,7 +2,6 @@
 
 🔭 I’m currently working as Cybersecurity Analyst<br/>
 👯 I’m looking to collaborate on Automation using AI<br/>
-🤝 I’m looking for help with n8n<br/>
 🌱 I’m currently learning a lot of stuff!<br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/iranna-hangnalli">
